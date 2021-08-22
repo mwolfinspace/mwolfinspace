@@ -3,11 +3,13 @@ Hi, I'm mwolfinspace 🐺
 
 A space traveller werewolf enjoy a life on the Earth.
 
-Hobbies
+Hobbies <img align="right" src="img/MWolf.png" width="200">
 ----
-📃 > Translate open-source codes.<br />🎨 > Doodle and design some furry stuff. <br />💻 > Learn programming languages like Rust, Java, Pascal…
+- Translate open-source codes.
+- Doodle and design some furry stuff.
+- Learn programming languages like Rust, Java, Pascal…
 
-<img src="img/MWolf.png" width="200">
+
 
   
 
@@ -21,4 +23,3 @@ Links
 - [Facebook](https://www.facebook.com/xedrykthedragon/)
 - [Instagram](https://www.instagram.com/xedryk/)
 - [Furaffinity](https://www.furaffinity.net/user/1234hdpa/)
-
