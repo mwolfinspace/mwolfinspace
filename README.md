@@ -1,4 +1,12 @@
-Hi, I'm mwolfinspace 🐺 :artificial_satellite:
+<style>
+td, th {
+   border: none!important;
+}
+table {
+        width: 100%;
+    }
+</style>
+Hi, I'm mwolfinspace 🐺
 ====================
 
 A space traveller werewolf enjoy a life on the Earth.
@@ -6,16 +14,15 @@ A space traveller werewolf enjoy a life on the Earth.
 Hobbies
 ----
 
-<img src="img/MWolf.png" width="200">
-----
+ | | |
+  | ------------------------------------------------------------ | ------------------------------------- |
+  | 📃 > Translate open-source codes.<br />🎨 > Doodle and design some furry stuff. <br />💻 > Learn programming languages like Rust, Java, Pascal… | <img src="img/MWolf.png" width="200"> |
 
-+ Translate open-source codes.
-+ Doodle and design some furry stuff.
-+ Learn programming languages like Rust, Java, Pascal…
+  
 
 Note: This little wolf here was drawn by [Graffiti Rabbit](https://twitter.com/graffiti_rabbit). You should check out her works!
 
-Contact me via
+Links
 ---
 
 - [Personal’s Blog](https://xedryk.tumblr.com)
