@@ -1,16 +1,26 @@
-### Hi there 👋
+Hi, I'm mwolfinspace 🐺 :artificial_satellite:
+====================
 
-<!--
-**mwolfinspace/mwolfinspace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A space traveller werewolf enjoy a life on the Earth.
 
-Here are some ideas to get you started:
+Hobbies
+----
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="img/MWolf.png" width="200">
+----
+
++ Translate open-source codes.
++ Doodle and design some furry stuff.
++ Learn programming languages like Rust, Java, Pascal…
+
+Note: This little wolf here was drawn by [Graffiti Rabbit](https://twitter.com/graffiti_rabbit). You should check out her works!
+
+Contact me via
+---
+
+- [Personal’s Blog](https://xedryk.tumblr.com)
+- [Twitter](https://twitter.com/mwolfinspace)
+- [Facebook](https://www.facebook.com/xedrykthedragon/)
+- [Instagram](https://www.instagram.com/xedryk/)
+- [Furaffinity](https://www.furaffinity.net/user/1234hdpa/)
+
