@@ -1,11 +1,3 @@
-<style>
-td, th {
-   border: none!important;
-}
-table {
-        width: 100%;
-    }
-</style>
 Hi, I'm mwolfinspace 🐺
 ====================
 
@@ -13,10 +5,9 @@ A space traveller werewolf enjoy a life on the Earth.
 
 Hobbies
 ----
+📃 > Translate open-source codes.<br />🎨 > Doodle and design some furry stuff. <br />💻 > Learn programming languages like Rust, Java, Pascal…
 
- | | |
-  | ------------------------------------------------------------ | ------------------------------------- |
-  | 📃 > Translate open-source codes.<br />🎨 > Doodle and design some furry stuff. <br />💻 > Learn programming languages like Rust, Java, Pascal… | <img src="img/MWolf.png" width="200"> |
+<img src="img/MWolf.png" width="200">
 
   
 
