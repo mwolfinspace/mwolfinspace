@@ -7,7 +7,7 @@ Hobbies <img align="right" src="img/MWolf.png" width="200">
 ----
 - Translate open-source projects.
 - Doodle and design some furry stuff.
-- Learn programming languages like Rust, Java, Pascal
+- Learn programming languages like Rust, Java and Pascal.
 
 
 
