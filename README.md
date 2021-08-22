@@ -1,19 +1,19 @@
 Hi, I'm mwolfinspace 🐺
 ====================
 
-A space traveller werewolf enjoy a life on the Earth.
+A space traveler werewolf enjoys life on the Earth.
 
 Hobbies <img align="right" src="img/MWolf.png" width="200">
 ----
-- Translate open-source codes.
+- Translate open-source projects.
 - Doodle and design some furry stuff.
-- Learn programming languages like Rust, Java, Pascal…
+- Learn programming languages like Rust, Java, Pascal
 
 
 
-  
+ 
 
-Note: This little wolf here was drawn by [Graffiti Rabbit](https://twitter.com/graffiti_rabbit). You should check out her works!
+The artwork here was drawn by [Graffiti Rabbit](https://twitter.com/graffiti_rabbit). You should check out her works!
 
 Links
 ---
