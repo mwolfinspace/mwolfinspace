@@ -13,7 +13,7 @@ Hobbies <img align="right" src="img/MWolf.png" width="200">
 
  
 
-The artwork here was drawn by [Graffiti Rabbit](https://twitter.com/graffiti_rabbit). You should check out her works!
+The artwork here was drawn by [Graffiti Rabbit](https://twitter.com/Shibe_Bun). You should check out her works!
 
 Links
 ---
