@@ -18,7 +18,7 @@ The artwork here was drawn by [Graffiti Rabbit](https://twitter.com/Shibe_Bun). 
 Links
 ---
 
-- [Personal’s Blog](https://xedryk.tumblr.com)
+- [Social links](https://linktr.ee/xedryk)
 - [Twitter](https://twitter.com/mwolfinspace)
 - [Facebook](https://www.facebook.com/xedrykthedragon/)
 - [Instagram](https://www.instagram.com/xedryk/)
