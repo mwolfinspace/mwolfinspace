@@ -18,8 +18,6 @@ The artwork here was drawn by [Graffiti Rabbit](https://twitter.com/Shibe_Bun). 
 Links
 ---
 
-- [Xedryk's links](https://linktr.ee/xedryk)
-- [Twitter](https://twitter.com/mwolfinspace)
+- [Xedryk's links](https://mwolfinspace.github.io/xedryk/)
 - [Facebook](https://www.facebook.com/xedrykthedragon/)
-- [Instagram](https://www.instagram.com/xedryk/)
 - [Furaffinity](https://www.furaffinity.net/user/1234hdpa/)
